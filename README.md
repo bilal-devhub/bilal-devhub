@@ -13,7 +13,7 @@ For collaboration, projects, or learning opportunities.
 
 ### 🌱 I’m currently learning:
 - Advanced Python concepts  
-- Basic Web Development (HTML, CSS)  
+- Desktop Application,AI Automation 
 - Database Management (MySQL, SQLite)  
 
 ### 👯 I’m looking to collaborate on:

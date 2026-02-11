@@ -16,7 +16,7 @@ For collaboration, projects, or learning opportunities.
 - Desktop Application,AI Automation 
 - Database Management (MySQL, SQLite)  
 
-### 👯 I’m looking to collaborate on:
+###  I’m looking to collaborate on:
 - Beginner-friendly Python projects  
 - Learning-based application development  
 
@@ -34,7 +34,7 @@ For collaboration, projects, or learning opportunities.
 - **LinkedIn:** https://linkedin.com/in/mbilaal  
 - **Email:** bilalchs2180@gmail.com  
 
-### 😄 Pronouns:
+###  Pronouns:
 Muhammad Bilal  
 
 ### ⚡ Fun fact:
